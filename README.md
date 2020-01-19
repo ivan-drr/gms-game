@@ -4,6 +4,7 @@ This is not a serious project. All code here could be a mess use it carefully.
 
 Current tree:
 ```bash
+gms-game
 ├───fonts
 │   ├───font_main
 │   └───font_title
